@@ -1,0 +1,45 @@
+{
+  "id": "I1BB904F8",
+  "title": {
+    "en": "Moonlight of Excellent Explanation, Commentary on Entering the Middle Way",
+    "bo": "འཇུག་པའི་འགྲེལ་མཆན་ལེགས་བཤད་ཟླ་ཟེར།"
+  },
+  "author": {
+    "en": "None",
+    "bo": "རྒྱ་ཀོང་མཁན་ཆེན་གཞན་ཕན་ཆོས་ཀྱི་སྣང་བ།"
+  },
+  "imported": "2025-02-07T05:51:55.758849",
+  "source": "https://library.bdrc.io/show/bdr:WA0XLB967954E010A?tabs=bdr:MW1PD2074_B96795",
+  "toolkit_version": "0.0.1",
+  "parser": "DocxNumberListCommentaryParser",
+  "initial_creation_type": "google_docx",
+  "language": "bo",
+  "source_metadata": {
+    "presentation": {
+      "en": ""
+    },
+    "usage_title": {
+      "en": "Moonlight of Excellent Explanation, Commentary on Entering the Middle Way",
+      "bo": "འཇུག་པའི་འགྲེལ་མཆན་ལེགས་བཤད་ཟླ་ཟེར།"
+    },
+    "long_title": {
+      "en": "Rays of Moonlight, Excellent Commentary on Entering the Middle Way",
+      "bo": "དབུ་མ་ལ་འཇུག་པའི་འགྲེལ་མཆན་ལེགས་པར་བཤད་པ་ཟླ་པའི་འོད་ཟེར།"
+    },
+    "commentary_of": "I4145E29E",
+    "document_id": "1rnQolLlX0cVEHzAG6HFa4FvgiNmWY608T3ikV3Ju9z0",
+    "commentary_alignments": [
+      {
+        "source": "I4145E29E/layers/37A0/Tibetan_Segment-5E1A.json",
+        "target": "I1BB904F8/layers/BA13/Meaning_Segment-D7AE.json"
+      }
+    ]
+  },
+  "bases": [],
+  "copyright": {
+    "status": "Unknown",
+    "notice": "",
+    "info_url": null
+  },
+  "licence": "Unknown"
+}
